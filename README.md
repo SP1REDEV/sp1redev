@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm SPIRE 👋</h1>
+<h1 align="center">Merhabalar, Ben SPIRE 👋</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sp1redev&label=Profile%20views&color=0e75b6&style=flat-square" alt="sp1redev views" />
