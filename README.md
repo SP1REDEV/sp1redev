@@ -7,7 +7,7 @@
 
 ---
 
-Kafasına göre projeler geliştiren, siber güvenlik tool'ları kodlayan ve dümenden **Full Stack Developer**'ım. 
+Kafasına göre projeler geliştiren, siber güvenlik tool'ları kodlayan ve dümenden **Full Stack Developer**'. 
 **(HER ŞEY DAHA YENİ BAŞLIYOR, BEKLEMEDE KALIN)**
 
 * 🛡️ **Cyber Security:** OSINT, dijital adli tıp ve siber istihbarat araçları.
